@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Voxify/static/css/main.c86ccdd5.css",
+    "main.js": "/Voxify/static/js/main.343b5b2c.js",
+    "static/js/787.c7ba3d1d.chunk.js": "/Voxify/static/js/787.c7ba3d1d.chunk.js",
+    "static/media/logo.png": "/Voxify/static/media/logo.ffe2d835f13dfd7359d0.png",
+    "index.html": "/Voxify/index.html",
+    "main.c86ccdd5.css.map": "/Voxify/static/css/main.c86ccdd5.css.map",
+    "main.343b5b2c.js.map": "/Voxify/static/js/main.343b5b2c.js.map",
+    "787.c7ba3d1d.chunk.js.map": "/Voxify/static/js/787.c7ba3d1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c86ccdd5.css",
+    "static/js/main.343b5b2c.js"
+  ]
+}
