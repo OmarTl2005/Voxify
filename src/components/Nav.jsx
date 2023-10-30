@@ -9,7 +9,7 @@ export const Nav = () => {
             <div className="self-start h-full w-[200px] m-0 p-0 xsm:h-[5%] xsm:hidden sups:hidden xsm:flex sm:flex lg:flex xl:flex">
                 <a href="/"><img className="xsm:w-full cursor-pointer hover:-translate-y-2 transition-all duration-700" alt="Voxify Logo" src={ logo } style={{ margin: 0, padding: 0, height: '180px', width: '200px' }} /></a>
             </div>
-            <div className="w-[15%] h-full self-end flex items-center justify-around flex-row xsm:w-full xsm:h-full sups:w-full xl:w-[20%]">
+            <div className="w-[15%] h-full self-end flex items-center justify-around flex-row xsm:w-full xsm:h-full sups:w-full xl:w-[20%] md:w-[20%]">
                 <a href="https://www.instagram.com/its_omar_00/" target="_blank" rel="noreferrer" ><PiInstagramLogoDuotone className="hover:text-pink-700 text-purple-500 transition-all duration-[600ms] hover:-translate-y-1 relative text-5xl xsm:text-3xl xl:text-5xl" /></a>
                 <a href="https://twitter.com/its_omar_00" target="_blank" rel="noreferrer" ><FaXTwitter className="hover:text-black text-purple-500 transition-all duration-[600ms] hover:-translate-y-1 relative text-[45px] xsm:text-3xl xl:text-5xl" /></a>
                 <a href="https://www.linkedin.com/in/taouilomar/" target="_blank" rel="noreferrer" ><PiLinkedinLogoDuotone  className="hover:text-[#0072B1] text-purple-500 transition-all duration-[600ms] hover:-translate-y-1 relative text-5xl xsm:text-3xl xl:text-5xl" /></a>
